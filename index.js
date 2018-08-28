@@ -11,7 +11,7 @@ export default {
 	config: config,
 	load: (cb) => {
 		require.ensure([], require => {
-			cb(require('./component'), require('./action'), require('./reducer'), require('./data'), require('./config'))
+			cb(require('./component'), require('./action'), require('./reducer'))
 		}, "app-test")
 	}
 }
