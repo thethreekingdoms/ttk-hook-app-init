@@ -1,7 +1,6 @@
 {
   "name": "ttk-app-init-demo",
-  "version": "1.0.0",
-  "description": "",
+  "version": "2.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/thethreekingdoms/ttk-app-init-demo/issues"
   },
-  "homepage": "https://github.com/thethreekingdoms/ttk-app-init-demo#readme"
+  "homepage": "https://github.com/thethreekingdoms/ttk-app-init-demo#readme",
+  "description": ""
 }
