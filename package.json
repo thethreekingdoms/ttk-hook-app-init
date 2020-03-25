@@ -1,19 +1,19 @@
 {
-  "name": "ttk-app-init-demo",
-  "version": "2.1.2",
+  "name": "ttk-hook-app-init",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thethreekingdoms/ttk-app-init-demo.git"
+    "url": "git+https://github.com/thethreekingdoms/ttk-hook-app-init.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thethreekingdoms/ttk-app-init-demo/issues"
+    "url": "https://github.com/thethreekingdoms/ttk-hook-app-init/issues"
   },
-  "homepage": "https://github.com/thethreekingdoms/ttk-app-init-demo#readme",
+  "homepage": "https://github.com/thethreekingdoms/ttk-hook-app-init#readme",
   "description": ""
 }
